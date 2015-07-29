@@ -1,4 +1,4 @@
-Supermarket Check Out
+# Supermarket Check Out
 
 Implement a Supermarket checkout that calculates the total price of a number of items.
  
